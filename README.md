@@ -8,7 +8,7 @@ Diogo Eusébio | 87650
 Rodrigo Lima  | 83559
 Simão Nunes   | 86512
 
-
+![](https://raw.githubusercontent.com/DiogoEusebio/AASMASelfDrivingCars2020/main/selfdriving_cars_screenshot.png)
 Video Demo url: www.youtube.com/watch?v=i_FMALtMSXk
 
 1) Requirements
